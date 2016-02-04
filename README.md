@@ -1,1 +1,1 @@
-# Control-Panel-Ultimate
+Hier gibt es das Control-Panel von CobraDE (https://www.mta-sa.org/thread/32038-control-panel-f%C3%BCr-vio-extendet/?pageNo=1) , welches an das Ultimate-RL Script angepasst wurde
